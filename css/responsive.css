@@ -1,0 +1,372 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .main-menu ul li a {
+        font-size: 15px;
+        padding: 46px 14px;
+    }
+    .slider-content p {
+        margin-top: 10px;
+    }
+    .slider-content a {
+        margin-top: 20px;
+    }
+    .transparent-header .main-menu ul li a {
+        padding: 40px 19px;
+    }
+    .slider-full .slider-img img {
+        display: block;
+        width: 57%;
+        padding-top: 139px;
+    }
+}
+    
+    /* LG Device :992px. */
+    @media (min-width: 992px) and (max-width: 1199px) {
+        
+        .header-top {
+            padding: 0px 0px;
+        }
+        .header-bottom {
+            padding: 0px 0px;
+        }
+        .header-button a {
+            padding: 15px 30px;
+        }
+        .header-button {
+            margin-left: 10px;
+        }
+        .main-menu ul li a {
+            font-size: 15px;
+            padding: 46px 14px;
+        }
+        .wrapper {
+            padding: 0 15px;
+        }
+        .wrapper2 {
+            padding: 0;
+        }
+        .slider-content h1 {
+            font-size: 50px;
+        }
+        .slider-content p {
+            width: 91%;
+            margin-top: 10px;
+        }
+        .wrapper2 .slider-content a {
+            margin-top: 20px !important;
+        }
+        .slider-content3 h1{
+            font-size: 85px;
+        }
+        .slider-full .slider-img img {
+            width: 66%;
+        }
+        #footer {
+            padding: 0 15px;
+        }
+        .footer2{
+            padding: 0;
+        }
+        .widget-content {
+            padding-right: 29px;
+        }
+        .widget-content form button {
+            padding: 0 10px;
+            font-size: 14px;
+            color: #000;
+            font-weight: 400;
+        }
+        .widget-info li {
+            margin-bottom: 11px;
+        }
+        #shop {
+            padding-top: 0;
+        }
+        .shop-content2{
+            padding-top: 0;
+            padding-bottom: 0;
+            padding-left: 30px;
+        }
+        .shop2{
+            padding-bottom: 110px;
+        }
+        .update-cart a {
+            width: 200px;
+            font-size: 15px;
+        }
+        .copon a {
+            font-size: 15px;
+        }     
+        .footer-link li a::before {
+            left: -15%;
+        }
+        .contact-info h2 {
+            margin-bottom: 20px;
+        }
+        .contact-meta {
+            margin-bottom: 27px;
+        }
+    }
+    
+     
+    /* MD Device :768px. */
+    @media (min-width: 768px) and (max-width: 991px) {
+        .header-bottom {
+            padding: 15px 60px;
+        }
+        .wrapper {
+            padding: 0 15px;
+        }
+        .wrapper2 {
+            padding: 0;
+        }
+        .slider-content2 h1 {
+            font-size: 70px;
+        }
+        #motivate {
+            padding-bottom: 50px;
+        }
+        .shop-content{
+            padding-left: 30px;
+        }
+        .shop-content3{
+            padding-top: 60px;
+        }
+        #shop {
+            padding-top: 0;
+        }
+        #portfolio {
+            padding-top: 0;
+        }
+        #page-title {
+            padding-top: 100px;
+            padding-bottom: 100px;     
+        }
+        .counter-2 p {
+            margin-top: -25px;
+            text-align: center;
+        }
+        .portfolio-menu button {
+            margin-bottom: 15px;
+        }
+        .footer-link li{
+            width: 100%;
+        }
+        #footer {
+            padding: 0 15px;
+        }
+        .footer2 {
+            padding: 0 !important;
+        }
+        .footer-link li {
+            margin-bottom: 7px;
+        }
+        .blog-share-icon {
+            text-align: left !important;
+            margin-top: 30px;   
+        }
+        .comments-form {
+            padding-right: 0;       
+        }
+        .update-cart{
+            float: left;
+            margin-top: 20px;
+        }
+    }
+    
+     
+    /* Extra small Device. */
+    @media (max-width: 767px) {
+        .header-top {
+            padding: 0 0;
+        }
+        .header-bottom {
+            padding: 0 0;
+        }
+        .header-bottom2 {
+            padding: 10px 0px;
+        }
+        .extra-info {
+            width: 100%;
+        }
+        .wrapper {
+            padding: 0;
+        }
+        .wrapper2 {
+            padding: 0;
+        }
+        #page-title {
+            padding-top: 80px;
+            padding-bottom: 80px;     
+        }
+        .slider-content h1 {
+            font-size: 37px;
+            font-weight: bold;
+        }
+        .slider-content h1, .page-title-content h1 {
+            font-size: 49px;
+            font-weight: bold;
+        }
+        .slider-content3 h1 {
+            font-size: 32px;
+            font-weight: bold;
+        }
+        .slider-content p {
+            width: 100%;
+        }  
+        .slider-height3 {
+            height: 450px;
+        }
+        .custom-btn {
+            padding: 13px 35px;
+            font-size: 20px;
+        }
+        .contact-form .custom-btn {
+            font-size: 14px;
+        }
+        .contact-info h2 {
+            line-height: 44px;
+        }
+        .header-right ul li a {
+            padding-left: 14px;
+        }
+        #motivate h2 {
+            font-size: 34px;
+        }
+        .cta-text {
+            padding-left: 15px;
+        }
+        .featurse-content h3 {
+            margin-bottom: 20px;
+        }
+        .shop-content {
+            padding-left: 15px;
+        }
+        h3 {
+            font-size: 21px;
+        }
+        h2 {
+            font-size: 32px;
+        }
+        
+        .portfolio-menu button {
+            padding: 6px 12px;
+            margin-right: 0px;
+            margin-top: 10px;
+        }
+        #portfolio {
+            padding-top: 0;
+        }
+        .portfolio-content {
+            margin-left: 4%;
+        }
+        .portfoli-details-gellary-img2{
+            padding-bottom: 40px;
+        }
+        .counter-2 p {
+            margin-top: -8px;
+            text-align: center;
+        }
+        .counter-2 span {
+            padding-bottom: 0px;
+            margin-top: 0;
+        }
+        #footer {
+            padding: 0 15px;
+        }
+        .footer2{
+            padding: 0 !important;
+        }
+        .testimonial-wrapper {
+            padding: 0 18px;     
+        }
+        .widget-info li {
+            font-size: 17px;
+            margin-bottom: 8px;
+        }
+        .footer-link li {
+            font-size: 16px;
+            margin-bottom: 14px;
+        }
+        .widget-content form button {
+            padding: 0 7px;
+            font-size: 14px;
+            font-weight: 500;       
+        }
+        .copyright-text p {
+            font-size: 17px;
+            font-weight: normal;
+            line-height: 19px;
+            color: #777777;
+            margin-bottom: 6px;
+            line-height: 1.7;      
+        }
+        #blog-area {
+            padding-right: 0;
+        }
+        .comments-form {
+            padding-right: 0;      
+        }
+        .blockqute {
+            margin-left: 0px;       
+        }
+        .blog-post-tag a {
+            margin-right: 10px;
+            margin-bottom: 10px;      
+        }
+        .blog-share-icon{
+            margin-top: 20px;
+        }
+        .comments-avata {
+            margin-bottom: 15px;       
+        }
+        .commetns-content {
+            padding-left: 0 !important;  
+        }
+        .avatar-name {
+            margin-bottom: 5px;   
+        }
+        .comments-reply {
+            padding-left: 0; 
+        }
+        .widget-content {
+            margin-bottom: 40px;
+        }
+        .footer-link li a::before {
+            left: -16%;
+        }
+        .update-cart{
+            float: left;
+            margin-top: 20px;
+        }
+        .cart-table {
+            overflow: auto;
+        }
+        .copon a {
+            margin-top: 20px;
+            margin-left: 0;
+        }
+        .update-cart a {
+            margin-right: 0;
+            float: left;
+            margin-bottom: 20px;     
+        }
+        #shop .nav-link {
+            margin-right: 25px;
+        }
+        .product-desc h2 {
+            font-size: 38px;
+            line-height: 46px;
+        }
+        .product-desc-action .custom-btn {
+            font-size: 18px;
+        }
+        .pro-comments-img {
+            flex-basis: 66px;
+        }
+}
+    /* SM Small Device :550px. */
+    @media only screen and (min-width: 576px) and (max-width: 767px) {
+    
+     
+    }
